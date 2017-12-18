@@ -25,7 +25,7 @@ function mergeSort(array){
 And we can think of it as doing the following:
 
 ```javascript
-let array =  [1, 2, 6, 7, 8, 3, 4, 5, 9, 10]
+let array =  [1, 2, 6, 7, 8, 3, 4, 5]
 mergeSort(array)
 
 // 1. Splitting up
